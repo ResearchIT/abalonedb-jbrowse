@@ -1,6 +1,6 @@
 {
     "formatVersion" : 1,
-    "refSeqs": "https://db.abalone.dbgenome.org/api/jbrowse/refSeqs.json?soType=chromosome&organism=Haliotis rufescens v1",
+    "refSeqs": "https://db.abalone.dbgenome.org/api/jbrowse/refSeqs.json?soType=supercontig&organism=Haliotis rufescens v1",
     "names" : {
        "type" : "REST",
        "url" : "https://db.abalone.dbgenome.org/api/jbrowse/names"
